@@ -1,6 +1,6 @@
 = Flaky Test Example project
 
-This repo contain intentionally flaky tests and are used to demonstrate how to deal with them.
+This repo contains intentionally flaky tests to help explain how to deal with them.
 
 WARNING: Flaky tests cause developer toil!
 
