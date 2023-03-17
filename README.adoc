@@ -1,5 +1,9 @@
 = Flaky Test Example project
 
+image:https://img.shields.io/badge/Revved%20up%20by-Gradle%20Enterprise-06A0CE?logo=Gradle&labelColor=02303A[
+    "Revved up by Gradle Enterprise",
+    link="https://events.gradle.com/scans?search.rootProjectNames=flaky-tests"]
+
 This repo contains intentionally flaky tests to help explain how to deal with them.
 
 WARNING: Flaky tests cause developer toil!
