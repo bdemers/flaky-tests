@@ -1,0 +1,9 @@
+= Flaky Test Example project
+
+This repo contain intentionally flaky tests and are used to demonstrate how to deal with them.
+
+WARNING: Flaky tests cause developer toil!
+
+https://gradle.com/blog/a-pragmatists-guide-to-flaky-test-management/[Flaky tests]:: Tests that produce both "passing" and "failing" results for the same code.
+
+image::https://i.imgflip.com/7eucu9.jpg["not sure if code is broken or tets are flaky - meme" align=center]
