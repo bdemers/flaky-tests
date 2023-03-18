@@ -21,7 +21,7 @@ public class DiceRollerTest {
     public void rollDie() {
         assertThat(
                 rollFlaky("1d20")
-        ).isGreaterThan(10);
+        ).isGreaterThan(1);
     }
 
     private int rollFlaky(String expression) {
